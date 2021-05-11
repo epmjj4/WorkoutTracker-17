@@ -10,8 +10,8 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 
 app.use(express.static('public'));
-
-mongoose.connect(process.env.MONGODB_URL||"mongodb://localhost/workout", {
+console.log(process.env.MONGODB_URL)
+mongoose.connect(process.env.MONGODB_URL ,{
     useNewUrlParser: true,
     useFindAndModify: false,
     
