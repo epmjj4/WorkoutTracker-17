@@ -18,4 +18,12 @@ https://murmuring-oasis-73213.herokuapp.com/
 
 ![WTracker Screenshot](https://raw.githubusercontent.com/epmjj4/WorkoutTracker-17/main/Develop/assets/WorkoutTracker-ScreenShot.png "WT-Screenshot")
 
+Technologies used:
+MongoDB
+NPM MongoJS
+Google
+Heroku
+MDN
+
+
 
