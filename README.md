@@ -14,6 +14,8 @@ https://github.com/epmjj4/WorkoutTracker-17
 # heroku deployed site
 https://murmuring-oasis-73213.herokuapp.com/
 
+![WTracker1 Screenshot](https://raw.githubusercontent.com/epmjj4/WorkoutTracker-17/main/Develop/assets/WorkoutTracker1-Screenshot.png "WT1-Screenshot")
+
 ![WTracker Screenshot](https://raw.githubusercontent.com/epmjj4/WorkoutTracker-17/main/Develop/assets/WorkoutTracker-ScreenShot.png "WT-Screenshot")
 
-![WTracker1 Screenshot](https://raw.githubusercontent.com/epmjj4/WorkoutTracker-17/main/Develop/assets/WorkoutTracker-ScreenShot.png "WT1-Screenshot")
+
